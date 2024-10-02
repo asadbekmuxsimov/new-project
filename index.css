@@ -126,3 +126,49 @@ ul button:active{
     height: 112px;
     font-size: 18px;
 }
+.main{
+    background: rgba(0, 64, 71, 1);
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 71px;
+}
+
+.text{
+ color: rgba(255, 255, 255, 1);
+font-size: 48px;
+font-weight: 700;
+line-height: 48px;
+text-align: center;
+padding-bottom: 70px;
+}
+section{
+    display: flex;
+    justify-content: center;
+height: 550px;
+gap: 30px;
+
+}
+section div{
+    background: rgba(1, 47, 52, 1);
+    width: 350px;
+height: 274.73px;
+padding: 32px 24px;
+position: relative;
+}
+.oval{
+    margin: 12px 103px;
+}
+section div h5{
+    text-align: center;
+    color: rgba(121, 200, 199, 1);
+}
+section div p{
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+
+}
+.plus{
+    position: absolute;
+    left: 147px;
+    top: 245px;
+}
