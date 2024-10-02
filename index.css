@@ -32,3 +32,23 @@ a {
     background-color: #014E56;
 
 }
+.futri_boshi{
+    background-color: rgba(1, 47, 52, 1);
+    text-align: center;
+    f
+
+    
+}
+.futr_ortasi{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.footer{
+   display: flex;
+   justify-content: center;
+   margin: 0 auto;
+   flex-direction: column;
+}
