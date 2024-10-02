@@ -53,16 +53,21 @@ a {
 }
 .futr_burger{
     background-color: rgba(246, 126, 126, 1);
+    
+}
+.btnn{
     padding-top: 80px;
     padding-bottom: 80px;
+    font-size: 30px;
+    align-items: center;
     display: flex;
     justify-content: space-around;
-  font-size: 30px;
-  align-items: center;
+
 }
 .btni{
     background-color: rgba(246, 126, 126, 1);
      border-radius: 30px;
+     border: 2px solid black;
      width: 140px;
      height: 40px;
 }
@@ -71,18 +76,21 @@ a {
     
 }
 .futr_ohri{
-    display: flex;
     background-color:rgba(0, 37, 41, 1);
-    justify-content: space-around;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    align-items: center;
     
 }
 .tvintr{
     display: flex;
     gap: 20px;
     padding-right: 40px;
+}
+.secshn{
+    padding-top: 40px;
+    display: flex;
+    padding-bottom: 40px;
+    justify-content: space-around;
+    align-items: center;
+    
 }
 .footer{
    display: flex;
